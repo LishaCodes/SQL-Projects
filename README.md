@@ -1,0 +1,1 @@
+This project aims to perform analysis on iPhone ecommerce data using Python and SQL.
