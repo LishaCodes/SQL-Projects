@@ -1,4 +1,4 @@
-## This project focuses on analyzing e-commerce data to uncover customer purchasing patterns. We utilize Python for data manipulation and PostgreSQL for database management. Below is a detailed description of the methodology and process followed in this project.
+This project focuses on analyzing e-commerce data to uncover customer purchasing patterns. We utilize Python for data manipulation and PostgreSQL for database management. Below is a detailed description of the methodology and process followed in this project.
 
 ## Methodology
 
